@@ -5,7 +5,7 @@ int main(){
     //declarar as variaveis
     int numero, contador = 0, contadorPares = 0;
 
-    do
+    do 
     {
         printf("Numero:");
         scanf("%d", &numero);
